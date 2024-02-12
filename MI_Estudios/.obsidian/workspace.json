@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "2dff2cddea06db63",
+    "type": "split",
+    "children": [
+      {
+        "id": "db54f3d7710dfbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0b4e8fda498f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/3_JavaScript/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57afd4e2db61475a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/1_HTML/4_Texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a2de39fcf04c2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/1_HTML/5_Nav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "902049790024ded7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/2_CSS/7_Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c9950c0ff095f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/2_CSS/7_Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c6e47c5f471824b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/2_CSS/7_Grid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f037751db3be1215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_web/1_HTML/4_Texto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb0fa68c27f18ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fd1d5aa417deeb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "54448db95dacc2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de51f2d0477b573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c2143f887fe1730",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22538806a626d295",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "eee5939a6309a044",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f738926335960d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28d32782b4e2241",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5_C++/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b07b631f8a5841d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5_C++/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbf19f1e866785f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "812b38046f889fd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5_C++/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7de51f2d0477b573",
+  "lastOpenFiles": [
+    "1_web/1_HTML/4_Texto.md",
+    "5_C++/Untitled.md",
+    "1_web/1_HTML/5_Nav.md",
+    "1_web/1_HTML/6_Etiquetas de estructura extra.md",
+    "1_web/2_CSS/7_Grid.md",
+    "1_web/2_CSS/6_box-sizing.md",
+    "1_web/2_CSS/8_border-radius.md",
+    "1_web/2_CSS/9_Configuraciónes.md",
+    "1_web/2_CSS/10_Cambiar color de texto.md",
+    "1_web/3_JavaScript/Untitled 1.md",
+    "IMG",
+    "IMG/Secciones-de-una-pagina-web-en-html.webp",
+    "1_web/2_CSS/0_Comentar.md",
+    "1_web/2_CSS/1_Cambiar_color_de_fondo.md",
+    "1_web/2_CSS/5_Font.md",
+    "1_web/3_JavaScript/0_comentar.md",
+    "1_web/3_JavaScript/1_Variables.md",
+    "6_C#",
+    "5_C++",
+    "1_web/2_CSS/4_Tamaño.md",
+    "1_web/1_HTML/3_div.md",
+    "1_web/1_HTML/0_Comentar.md",
+    "3_Python/0_Comentar.md",
+    "3_Python/1_Imprimir_Por_Pantalla.md",
+    "3_Python/2_Variables.md",
+    "3_Python/3_Input.md",
+    "1_web/1_HTML/1_Estructura_Basica.md",
+    "4_GIT/Untitled.md",
+    "4_GIT",
+    "1_web",
+    "0_Ingles/1_pronombres.md",
+    "0_Ingles",
+    "Welcome.md",
+    "1_Web",
+    "1_web/2_CSS",
+    "1_web/1_HTML",
+    "3_Python"
+  ]
+}
