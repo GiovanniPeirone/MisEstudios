@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae0b4e8fda498f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57afd4e2db61475a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/1_HTML/4_Texto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a2de39fcf04c2e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/1_HTML/5_Nav.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "902049790024ded7",
+            "id": "18dc75e832ff9990",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,55 +20,235 @@
             }
           },
           {
-            "id": "6c9950c0ff095f39",
+            "id": "12dfa47e7ae36e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_web/2_CSS/7_Grid.md",
+                "file": "5_C++/0_Comentarios.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c6e47c5f471824b",
+            "id": "c5b2f0f7e243f882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_web/2_CSS/7_Grid.md",
+                "file": "5_C++/1_Estructura Básica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f037751db3be1215",
+            "id": "0ac205a7cae8e9bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_web/1_HTML/4_Texto.md",
+                "file": "5_C++/3_Variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3eb0fa68c27f18ad",
+            "id": "b18437e582f3f0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_C++/Untitled.md",
+                "file": "5_C++/4_Input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e882bb098397ed86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/6_Matematica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "028dc13fee1193a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/11_Break and Continue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ed64ac99cc5e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/15_Funciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "839e42af54a51c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/4_Input.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae5a543fecdd3a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/Librerias/1_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ba582beaa097a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/Librerias/2_string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1db8f61cb0021d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/11_Break and Continue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19b487056f947d5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/7_If,else,else if.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48e13b99320ee84f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/8_SWICH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c747ed5023012e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/9_WHILE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2c64b453c3ad822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/11_Break and Continue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecec169eb43061bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/12_Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "743a73f3b4c26767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/13_Estructuras.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac3362e2c22b472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/Librerias/2_string.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef2b8a33bfeb8353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_C++/6_Matematica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -170,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_C++/Untitled.md",
+                "file": "5_C++/6_Matematica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_C++/Untitled.md",
+                "file": "5_C++/6_Matematica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_C++/Untitled.md"
+                "file": "5_C++/6_Matematica.md"
               }
             }
           }
@@ -218,7 +362,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -231,44 +375,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7de51f2d0477b573",
+  "active": "ef2b8a33bfeb8353",
   "lastOpenFiles": [
-    "1_web/1_HTML/4_Texto.md",
-    "5_C++/Untitled.md",
-    "1_web/1_HTML/5_Nav.md",
-    "1_web/1_HTML/6_Etiquetas de estructura extra.md",
+    "5_C++/Librerias/3_System.md",
+    "5_C++/Librerias/2_string.md",
+    "5_C++/16_POO.md",
+    "5_C++/15_Funciones.md",
+    "5_C++/14_Referencias.md",
+    "5_C++/13_Estructuras.md",
+    "5_C++/12_Arrays.md",
+    "5_C++/11_Break and Continue.md",
+    "5_C++/10_FOR.md",
+    "5_C++/9_WHILE.md",
+    "5_C++/7_If,else,else if.md",
+    "5_C++/8_SWICH.md",
+    "5_C++/6_Matematica.md",
+    "5_C++/5_Print.md",
+    "5_C++/4_Input.md",
+    "5_C++/Librerias/1_.md",
+    "5_C++/Librerias",
+    "5_C++/3_Variables.md",
+    "5_C++/1_Estructura Básica.md",
+    "5_C++/0_Comentarios.md",
+    "1_web/1_HTML/0_Comentar.md",
     "1_web/2_CSS/7_Grid.md",
-    "1_web/2_CSS/6_box-sizing.md",
-    "1_web/2_CSS/8_border-radius.md",
-    "1_web/2_CSS/9_Configuraciónes.md",
-    "1_web/2_CSS/10_Cambiar color de texto.md",
-    "1_web/3_JavaScript/Untitled 1.md",
+    "7_GDScript/Untitled.md",
+    "7_GDScript/0_Comentar.md",
+    "8_INGLES/Glosario.md",
+    "1_web/2_CSS/14_Display.md",
+    "1_web/2_CSS/13_Margin,Padding,etc....md",
+    "3_Python/Librerias",
+    "5_C++/openGL",
+    "5_C++/Cmake",
+    "8_INGLES",
+    "7_GDScript",
+    "IMG/Captura de pantalla 2024-02-12 201453.png",
     "IMG",
     "IMG/Secciones-de-una-pagina-web-en-html.webp",
-    "1_web/2_CSS/0_Comentar.md",
-    "1_web/2_CSS/1_Cambiar_color_de_fondo.md",
-    "1_web/2_CSS/5_Font.md",
-    "1_web/3_JavaScript/0_comentar.md",
-    "1_web/3_JavaScript/1_Variables.md",
     "6_C#",
     "5_C++",
-    "1_web/2_CSS/4_Tamaño.md",
-    "1_web/1_HTML/3_div.md",
-    "1_web/1_HTML/0_Comentar.md",
-    "3_Python/0_Comentar.md",
-    "3_Python/1_Imprimir_Por_Pantalla.md",
-    "3_Python/2_Variables.md",
-    "3_Python/3_Input.md",
-    "1_web/1_HTML/1_Estructura_Basica.md",
-    "4_GIT/Untitled.md",
-    "4_GIT",
-    "1_web",
-    "0_Ingles/1_pronombres.md",
-    "0_Ingles",
-    "Welcome.md",
-    "1_Web",
-    "1_web/2_CSS",
-    "1_web/1_HTML",
-    "3_Python"
+    "4_GIT"
   ]
 }
