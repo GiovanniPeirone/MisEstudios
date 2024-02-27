@@ -407,7 +407,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_Java/7_Matematicas Pendiente.md",
+                "file": "7_Java/7_Matematicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -431,7 +431,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_Java/7_Matematicas Pendiente.md",
+                "file": "7_Java/7_Matematicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -444,18 +444,6 @@
               "type": "markdown",
               "state": {
                 "file": "7_Java/4_Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a80ccaa7c87f1e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/6_Operadores  Pendiente.md",
                 "mode": "source",
                 "source": false
               }
@@ -515,7 +503,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_Java/14_Arrays  Pendiente.md",
+                "file": "7_Java/14_Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -664,9 +652,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0de696d013ae4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_Java/6_Operadotres Aritméticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05be44223ca7a14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_Java/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee63dc81c7119c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_Java/14_Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 54
+        "currentTab": 56
       }
     ],
     "direction": "vertical"
@@ -732,7 +756,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_Java/17_JOptionPane.md",
+                "file": "7_Java/14_Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -749,7 +773,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_Java/17_JOptionPane.md",
+                "file": "7_Java/14_Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -772,7 +796,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_Java/17_JOptionPane.md"
+                "file": "7_Java/14_Arrays.md"
               }
             }
           }
@@ -793,20 +817,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88faa16320abe9fb",
+  "active": "ee63dc81c7119c63",
   "lastOpenFiles": [
-    "7_Java/16_INPUT.md",
+    "7_Java/9_if,Else.md",
+    "7_Java/7_Matematicas.md",
+    "7_Java/7_string Pendiente.md",
+    "7_Java/6_Operadotres Aritméticos.md",
+    "7_Java/6_Operadores  Pendiente.md",
+    "7_Java/Untitled 2.md",
+    "7_Java/Untitled 1.md",
     "7_Java/17_JOptionPane.md",
+    "7_Java/16_INPUT.md",
     "7_Java/15_Metodos(Funciones).md",
     "7_Java/3_Print.md",
     "7_Java/5_Constantes.md",
-    "7_Java/14_Arrays  Pendiente.md",
+    "7_Java/14_Arrays.md",
     "7_Java/12_For.md",
     "7_Java/11_while.md",
     "7_Java/10_Swich.md",
-    "7_Java/9_if,Else.md",
-    "7_Java/7_string Pendiente.md",
-    "7_Java/6_Operadores  Pendiente.md",
     "7_Java/4_Variables.md",
     "7_Java/POO/3_Modificadores.md",
     "7_Java/POO/Untitled 3.md",
@@ -817,12 +845,8 @@
     "7_Java/POO/0_Clases y Objetos.md",
     "7_Java/POO",
     "7_Java/POO/Untitled 4.md",
-    "7_Java/7_Matematicas Pendiente.md",
     "7_Java/12_Breack, Continue.md",
-    "7_Java/0_Comentarios.md",
-    "7_Java/1_Estructura Basica.md",
     "7_Java",
-    "5_C++/17_Posiscionar caracteres en consola.md",
     "5_C++/Librerias",
     "3_Python/Librerias",
     "5_C++/openGL",
