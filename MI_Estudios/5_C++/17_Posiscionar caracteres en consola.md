@@ -9,7 +9,7 @@ Posiscionar caracteres en cordendas de la consola
 
 
 int main() {
-	HANDLE hCon; //Define variable cono handle
+	HANDLE e varihCon; //Definable cono handle
 	hCon = GetStdHandle(STD_OUTPUT_HANDLE); // hace que pueda acceder la salida de la consola
 	COORD dwPos; //Define faviable con coord
 	dwPos.X = 4; //Define cordenadas en x

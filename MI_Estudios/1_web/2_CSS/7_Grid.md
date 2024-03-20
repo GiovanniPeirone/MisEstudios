@@ -150,7 +150,7 @@ Auto-Fill
 
     );
 
-Auto-Fill hace que las colubnas se uviequen en lo ancho mientras que su ancho sea de 200 o
+Auto-Fill hace que las colubnas se ubiequen en lo ancho mientras que su ancho sea de 200 o
 lo que pongas en em minmax
 
 Auto-Fit

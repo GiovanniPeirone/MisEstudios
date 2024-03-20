@@ -4,441 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db54f3d7710dfbf5",
+        "id": "18f40a473991e14e",
         "type": "tabs",
         "children": [
           {
-            "id": "18dc75e832ff9990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/2_CSS/7_Grid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12dfa47e7ae36e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/0_Comentarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5b2f0f7e243f882",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/1_Estructura Básica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ac205a7cae8e9bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/3_Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b18437e582f3f0dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/4_Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e882bb098397ed86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/6_Matematica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "028dc13fee1193a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/11_Break and Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2ed64ac99cc5e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/15_Funciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "839e42af54a51c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/4_Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae5a543fecdd3a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/Librerias/1_iostream.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ba582beaa097a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/Librerias/2_string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1db8f61cb0021d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/11_Break and Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b487056f947d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/7_If,else,else if.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48e13b99320ee84f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/8_SWICH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c747ed5023012e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/9_WHILE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2c64b453c3ad822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/11_Break and Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecec169eb43061bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/12_Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "743a73f3b4c26767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/13_Estructuras.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac3362e2c22b472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/Librerias/2_string.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef2b8a33bfeb8353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/16_POO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9cb654bc15b2dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4631f2f8d4a13d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled 1 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "335e24570306ed4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "354b1b089675dbff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d66a0e324c16469c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_web/3_JavaScript/Untitled 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c21bc73fd8e743e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/Librerias/3_System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c554b6cf77f02bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/Librerias/4_stdio.h.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c55b79d484aa0d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/16_POO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9f85b5d05cac18d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_C++/16_POO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd15414024ababe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "ffa04ec8268a5f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/0_Comentarios.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa4bfbebd14870b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/1_Estructura Basica.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51315a5de69e2c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/3_Print.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96df982e599d7f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/7_Matematicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83710cc7c1a4732f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/9_if,Else.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a17607a8faf0e948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/7_Matematicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3762657a16d0b303",
+            "id": "dead3d7497f7252f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -448,249 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "260284e314453720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/10_Swich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0dc04d33c0548df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/11_while.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "109c40927bbbf3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/12_For.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fb388921a814c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/12_Breack, Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0894dce1907a3f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/14_Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a916bb02b36b6fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/15_Metodos(Funciones).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdf204b6d8662f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/0_Clases y Objetos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b66f3cd775de391",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/1_Metodos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd935cbcdeb71621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/2_Constructor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14eb2d4f60079e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/2_Constructor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7f79d8f92335de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/3_Modificadores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4519df8ed4c8a077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16a0754070a3584f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/POO/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af59609b96aabb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/15_Metodos(Funciones).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a82eb2bbbcb46a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/15_Metodos(Funciones).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65f64dd1c4e76547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/16_INPUT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88faa16320abe9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/17_JOptionPane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0de696d013ae4a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/6_Operadotres Aritméticos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05be44223ca7a14e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee63dc81c7119c63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_Java/14_Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 56
+        ]
       }
     ],
     "direction": "vertical"
@@ -740,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 200
   },
   "right": {
     "id": "eee5939a6309a044",
@@ -756,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_Java/14_Arrays.md",
+                "file": "7_Java/4_Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -773,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_Java/14_Arrays.md",
+                "file": "7_Java/4_Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -796,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_Java/14_Arrays.md"
+                "file": "7_Java/4_Variables.md"
               }
             }
           }
@@ -817,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee63dc81c7119c63",
+  "active": "dead3d7497f7252f",
   "lastOpenFiles": [
-    "7_Java/9_if,Else.md",
-    "7_Java/7_Matematicas.md",
-    "7_Java/7_string Pendiente.md",
-    "7_Java/6_Operadotres Aritméticos.md",
-    "7_Java/6_Operadores  Pendiente.md",
-    "7_Java/Untitled 2.md",
-    "7_Java/Untitled 1.md",
-    "7_Java/17_JOptionPane.md",
-    "7_Java/16_INPUT.md",
-    "7_Java/15_Metodos(Funciones).md",
-    "7_Java/3_Print.md",
     "7_Java/5_Constantes.md",
-    "7_Java/14_Arrays.md",
-    "7_Java/12_For.md",
+    "7_Java/6_Operadotres Aritméticos.md",
+    "7_Java/7_Matematicas.md",
+    "7_Java/15_Metodos(Funciones).md",
+    "7_Java/16_INPUT.md",
+    "7_Java/17_JOptionPane.md",
     "7_Java/11_while.md",
-    "7_Java/10_Swich.md",
+    "7_Java/9_if,Else.md",
     "7_Java/4_Variables.md",
-    "7_Java/POO/3_Modificadores.md",
-    "7_Java/POO/Untitled 3.md",
+    "1_web/4_Angular/2_Iniciar proyecto.md",
+    "1_web/4_Angular/1_Instalar.md",
+    "1_web/4_Angular/Untitled 2.md",
+    "4_GIT/2_Crear un repositorio.md",
+    "4_GIT/1_Configuracion de GIT.md",
+    "1_web/3_JavaScript/Metodos/4_getElementbyID.md",
+    "1_web/3_JavaScript/Untitled 1.md",
+    "1_web/3_JavaScript/Metodos/1_Split.md",
+    "5_C++/poo/6.md",
+    "5_C++/poo/5_Getter y setter.md",
+    "5_C++/poo/4_Proteccion.md",
+    "5_C++/poo/3_Constructor.md",
+    "5_C++/poo/1_Clases Y objetos.md",
+    "7_Java/Untitled 1.md",
     "7_Java/POO/Untitled 2.md",
     "7_Java/POO/Untitled 1.md",
-    "7_Java/POO/2_Constructor.md",
-    "7_Java/POO/1_Metodos.md",
-    "7_Java/POO/0_Clases y Objetos.md",
+    "7_Java/POO/3_Modificadores.md",
+    "1_web/4_Angular",
+    "1_web/3_JavaScript/Metodos",
+    "5_C++/poo",
     "7_Java/POO",
-    "7_Java/POO/Untitled 4.md",
-    "7_Java/12_Breack, Continue.md",
     "7_Java",
     "5_C++/Librerias",
     "3_Python/Librerias",
     "5_C++/openGL",
     "5_C++/Cmake",
     "INGLES",
-    "8_GDScript",
     "IMG/Captura de pantalla 2024-02-12 201453.png",
-    "IMG",
-    "IMG/Secciones-de-una-pagina-web-en-html.webp",
-    "6_C#"
+    "IMG/Secciones-de-una-pagina-web-en-html.webp"
   ]
 }
